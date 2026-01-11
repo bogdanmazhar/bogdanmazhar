@@ -1,4 +1,18 @@
-## Hi there 👋
+## Привет! 👋 Я Богдан
+💡 Python-разработчик, интересуюсь Backend.
+
+## 🔧 Мои Hard Skills:
+- Python, ООП, алгоритмы
+- Telegram, pyrogram
+- PyGame
+- Flask, REST API
+- SQLite
+
+## 📌 Мои проекты:
+[Web-Blog](https://github.com/user/web-blog)
+[Работа с нейросетью](https://github.com/user/neyron)
+
+📫 Контакты: [Telegram](https://t.me/@duck30006)
 
 <!--
 **bogdanmazhar/bogdanmazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
