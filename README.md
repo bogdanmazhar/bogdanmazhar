@@ -9,7 +9,7 @@
 - SQLite
 
 ## 📌 Мои проекты:
-[Web-Blog](https://github.com/user/127.0.0.1:5000)
+[Web-Blog](http://127.0.0.1:5000)
 [Работа с нейросетью](https://github.com/user/neyron)
 
 📫 Контакты: [Telegram](https://t.me/@duck30006)
